@@ -27,7 +27,7 @@ public class Demo1 {
 		
 		System.out.println("Length of array arr1[] is " +arr1.length);
 		System.out.println("Length of array arr2[] is " +arr2.length);
-		//arrange array in ascending orrder
+		//arrange array in ascending order
 		Arrays.sort(arr1);
 		
 		for(int i=0;i<6;i++)
